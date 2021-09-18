@@ -29,3 +29,6 @@ data-modal - на бекдроп модального окна.
     refs.modal.classList.toggle('is-hidden');
   }
 })();
+
+ссылка на видео по подключению:
+https://drive.google.com/file/d/1yasixN2K-9DdsYtKCJWVay9WbyTZai0t/view?usp=sharing
